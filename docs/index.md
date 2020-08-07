@@ -21,7 +21,7 @@ Personally-identifiable contract tracing—information is automatically deleted 
 
 
 ## Looking for preregistration?
-* Check out our live group and event preregistration example at [COVIDSafe.events](https://covidsafe.page.link/empcmca]) and email info@singletouchdigital.com.au to discuss brandable solutions.
+* Check out our live group and event booking preregistration at [COVIDSafe.events](https://covidsafe.page.link/empcmca]) and email info@singletouchdigital.com.au to discuss personalised solutions.
 
 
 
