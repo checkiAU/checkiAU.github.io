@@ -20,6 +20,12 @@ Data is securely stored within Australian servers and can be reviewed by the pla
 Personally-identifiable contract tracing—information is automatically deleted after 56 days.
 
 
+## Looking for preregistration?
+Are you looking for preregistration functionality for your groups and events?
+
+Check out a live example here (COVIDSafe.events)[https://covidsafe.page.link/empcmca] and email info@singletouchdigital.com.au to discuss options.
+
+
 
 ## [Disclaimer](https://www.covid19.qld.gov.au/government-actions/covid-safe-businesses/information-privacy)
 
