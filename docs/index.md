@@ -1,12 +1,13 @@
 # Checki
-Checki streamlines contactless secure check in—out to keep you and your customers safe.
+Checki securely streamlines contactless check in—out to keep you and your customers COVIDSafe.
 * Track your customer capacity in real time
 * Setup alerts for your visitors estimated time of stay
 * Each visitor can click on your Checki profile through our accessible app to scan in and out.
 * Organisers can also check visitors details in and out, for users without a phone
 
 
-Free for all visitors with a simple QR code for your business, create an organisation account to streamline your COVID Safe Business today. 
+Freely welcome all visitors with a simple QR code for your business, create an organisation account to streamline your COVID Safe Business today. 
+
 Email info@singletouchdigital.com.au to find out more.
 
 
