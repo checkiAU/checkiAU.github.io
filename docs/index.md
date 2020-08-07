@@ -6,7 +6,7 @@ Checki securely streamlines contactless check in—out to keep you and your cust
 * Organisers can also check visitors details in and out, for users without a phone
 
 
-Freely welcome visitors with a simple QR code for your business. Create an organisation account to streamline your COVID Safe Business today. 
+Freely welcome visitors directed with a simple QR code for your customisable check in hub. Create an organisation account to streamline your COVID Safe Business today. 
 
 Email info@singletouchdigital.com.au to find out more.
 
@@ -21,7 +21,7 @@ Personally-identifiable contract tracing—information is automatically deleted 
 
 
 ## Looking for preregistration?
-For group and event preregistration check out our live example at [COVIDSafe.events](https://covidsafe.page.link/empcmca]) and email info@singletouchdigital.com.au to discuss options.
+* Check out our live group and event preregistration example at [COVIDSafe.events](https://covidsafe.page.link/empcmca]) and email info@singletouchdigital.com.au to discuss brandable solutions.
 
 
 
