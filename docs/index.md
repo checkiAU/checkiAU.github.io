@@ -17,7 +17,7 @@ Email info@singletouchdigital.com.au to find out more.
 
 Data is securely stored within Australian servers and can be reviewed by the place of visit up to 56 days.
 
-Contact-tracing personally-identifiable information is automatically deleted after 56 days.
+Personally-identifiable contract tracing—information is automatically deleted after 56 days.
 
 
 
