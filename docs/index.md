@@ -31,4 +31,4 @@ Contact information collected for the purpose of contact tracing in the event of
 
 Your personal information will be stored securely and destroyed after	56 days, unless otherwise required by public health officials in the event of a Coronavirus (COVID-19) outbreak. It will NOT be used for marketing or research purposes, given or sold to third parties.
   
-Depending on the nature of your dealings with us, we may collect and hold other types of personal information ordinarily collected by us, booking information, etc., which will only be used to provide you with those services.
+Depending on the nature of your dealings with us, we may collect and hold other types of personal information ordinarily collected by us: usage telemetry, booking information, etc., which will only be used to improve and provide you with those services.
